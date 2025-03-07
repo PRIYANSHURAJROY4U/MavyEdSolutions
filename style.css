@@ -4195,3 +4195,14 @@ span.c-text {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional shadow for effect */
   animation: pulseRotate 3s infinite ease-in-out; /* Applying the combined pulse and rotate animation */
 }
+
+/* new addition for connect with us */
+
+/* a:hover {
+  background-color: #00cc00;
+  transform: scale(1.05);
+}
+
+a:hover span {
+  transform: translateX(5px);
+} */
